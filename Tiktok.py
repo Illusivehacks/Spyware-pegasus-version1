@@ -16,10 +16,10 @@ from scipy.io.wavfile import write
 import cv2
 
 # Load encryption key and encrypted credentials
-encryption_key = b"NUQyYC8GwoFKOW-KBfHczDTdJoz5TmmTfz9RBt5i_Ac="  # Use the key from the encryption script
+encryption_key = b"your generated encryption key"  # Use the key from the encryption script
 cipher_suite = Fernet(encryption_key)
-encrypted_bot_token = b"gAAAAABnHJO8eTeC-zsy6-JtigAjjb4nhhNNSpAKxpzvDJWL-2at0KSlQgh241SpKuvHSooGqqOXrHHSS2E7mZlu-rHw_bTZ-NjQOV_yv9t1RlOeurmLAixrjwOQ_Jznz16CIv8xIoTf"
-encrypted_chat_id = b"gAAAAABnHJO9WMtWcEiuDa3j8i1ws2C45mvQo34_UcVd2a21I8WNX3b2tp0pwmcqLpmI6xPcu5Mg8gBb_GQUqqrCQ5_5wgqiXA=="
+encrypted_bot_token = b"your encrypted bot token"
+encrypted_chat_id = b"your encrypted chat id"
 
 # Decrypt bot token and chat ID
 TOKEN = cipher_suite.decrypt(encrypted_bot_token).decode()
