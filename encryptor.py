@@ -5,8 +5,8 @@ encryption_key = Fernet.generate_key()
 cipher_suite = Fernet(encryption_key)
 
 # Replace these with your actual bot token and chat ID
-bot_token = "7729101822:AAGIJCUG0jmgzv7YTq6Voe5eKvLUt3ZNZH4"
-chat_id = "6215932196"
+bot_token = "your telegram bot token"
+chat_id = "your telegram chat id"
 
 # Encrypt the bot token and chat ID
 encrypted_bot_token = cipher_suite.encrypt(bot_token.encode())
