@@ -65,7 +65,7 @@ Error-resistant design with comprehensive logging
 
 🛠️ Technical Architecture
 Diagram
-
+![Screenshot Placeholder](technical arch.png)
 
 
 
@@ -158,7 +158,7 @@ Periodic media capture
 
 🔄 Operation Cycle
 Diagram
-
+![Screenshot Placeholder](operational.png)
 
 
 
