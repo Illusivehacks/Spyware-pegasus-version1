@@ -245,7 +245,7 @@ Kindly follow the instructions below to create your own spyware successfully
     threading 
     telegrambot
    
-    USE THIS COMMAND TO DOWNLOAD THE REQUIREMENTS IN THE TERMINAL ````python -m pip install "requirement`s name"````
+    USE THIS COMMAND TO DOWNLOAD THE REQUIREMENTS IN THE TERMINAL ````python -m pip install "requirements.txt"````
    
 8. After all requirements are installed, open telegram and search for bot father and id bot to create your bot token and chat id respectively. NOTE: Dont share your bot token and chat id with anyone!!
    now after creating them navigate to the code and paste them to the appropriate sections indicated by comments.
