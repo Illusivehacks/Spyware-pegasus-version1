@@ -252,9 +252,9 @@ Kindly follow the instructions below to create your own spyware successfully
 9. Now run the code to check whether the code is working, you can verify it by leaving the code running and opening your telegram and navigate to the bot through the link administered to you after you created the bot. make sure to start your bot.
                 
 
-use the /start command to activate the bot and spyware on the target device at this point the target machine will be your computer coz its currently the one running the code or targets computer.
+   use the /start command to activate the bot and spyware on the target device at this point the target machine will be your computer coz its currently the one running the code or targets computer.
 
-All the commands to use will be displayed and now you can execute each one of them from your bot to the target device.
+   All the commands to use will be displayed and now you can execute each one of them from your bot to the target device.
 
 10. Now after verifying that it working you can navigate to the terminal and convert the tiktok.py to an executable using the command below:
     step 1. ````pip install pyinstaller````
