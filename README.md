@@ -65,7 +65,7 @@ Error-resistant design with comprehensive logging
 
 🛠️ Technical Architecture
 Diagram
-![Screenshot Placeholder](technical arch.png)
+![Screenshot Placeholder](technical.png)
 
 
 
