@@ -12,7 +12,9 @@ ShadowSentry spyware is a sophisticated ethical hacking system monitoring tool d
 
 
 
+
 📸 Media Capture
+
 
 
 Screenshot Automation: High-resolution screenshots at regular intervals
@@ -24,7 +26,11 @@ Audio Recording: Ambient sound capture with configurable duration
 Video Surveillance: Webcam footage recording with MP4 encoding
 
 
+
+
 🔒 Credential Extraction
+
+
 
 
 Chrome password decryption with AES-GCM
@@ -36,7 +42,11 @@ Automatic retry mechanism for locked databases
 Secure transmission in chunks to bypass message limits
 
 
+
+
 📊 System Intelligence
+
+
 
 
 Comprehensive system information collection
@@ -49,7 +59,11 @@ Real-time status updates via Telegram
 
 
 
+
+
 🔐 Security Features
+
+
 
 
 
@@ -63,9 +77,13 @@ Error-resistant design with comprehensive logging
 
 
 
+
+
 🛠️ Technical Architecture
 Diagram
 ![Screenshot Placeholder](technical.png)
+
+
 
 
 
@@ -127,6 +145,8 @@ Customize capture durations in the function calls
 
 
 
+
+
 🚀 Usage
 
 
@@ -156,6 +176,9 @@ Periodic media capture
 
 
 
+
+
+
 🔄 Operation Cycle
 Diagram
 ![Screenshot Placeholder](operational.png)
@@ -182,10 +205,14 @@ Automatic cleanup of temporary files
 
 
 
+
+
 📜 License
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 
 
@@ -196,6 +223,8 @@ williamkitungo@gmail.com
 
 
 Warning: This tool is intended for authorized penetration testing and educational purposes only. Unauthorized use against systems you don't own or have permission to test is illegal.
+
+
 
 
 
