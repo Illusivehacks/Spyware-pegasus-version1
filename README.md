@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 💌 Contact
 For ethical use inquiries or security concerns:
 
-williamkitungo@gmail.com
+@Illusivehacks
 
 
 Warning: This tool is intended for authorized penetration testing and educational purposes only. Unauthorized use against systems you don't own or have permission to test is illegal.
